@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author Mr.X
  * @version 1.0.0
  * @since 2019/9/3 19:38
- * 采用后缀或逆波兰计法，实现一个简单的计算器
+ * 采用后缀或逆波兰计法，实现一个简单计算器
  */
 public class SimpleCalculator {
 
